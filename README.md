@@ -24,4 +24,4 @@ Este proyecto es una **invitación a una boda** que incluye música de fondo y o
 Para instalar este proyecto, simplemente clona el repositorio:
 
 ```bash
-git clone https://github.com/ccggwp/Wedding-Invitation.git
+git clone https://github.com/nos-casamos/invitacion.git
